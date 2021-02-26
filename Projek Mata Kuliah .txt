@@ -1,0 +1,7 @@
+Rekayasa Perangkat Lunak :
+https://gitlab.com/ruifaq/portal-presensi-siswa
+https://gitlab.com/ruifaq/portal-presensi-siswa/-/issues/17 (Desain UI)
+
+Teknologi Web lanjut :
+https://github.com/ruifaq/buku-alamat
+https://github.com/ruifaq/tekweblanjut_prak
